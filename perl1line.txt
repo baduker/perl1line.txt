@@ -1,18 +1,18 @@
-Useful One-Line Scripts for Perl                    Jul 11 2018 | version 1.11
+Useful One-Line Scripts for Perl                    Jan 27 2019 | version 1.12
 --------------------------------                    -----------   ------------
 
-Compiled by Peteris Krumins (peter@catonmat.net, @pkrumins on Twitter)
-http://www.catonmat.net -- good coders code, great reuse
+Compiled by Peter Krumins (peter@catonmat.net, @pkrumins on twitter)
+https://www.catonmat.net -- good coders code, great coders reuse
 
 Latest version of this file is always at:
 
-    http://www.catonmat.net/download/perl1line.txt
+    https://catonmat.net/ftp/perl1line.txt
 
 This file is also available in other languages:
 
     Chinese: https://github.com/vinian/perl1line.txt
 
-    Please email me peter@catonmat.net if you wish to translate it.
+    Please email me peter@catonmat.net if you want to translate it.
 
 Perl One-Liners on Github:
  
@@ -24,16 +24,16 @@ Perl One-Liners on Github:
 I have also written "Perl One-Liners Explained" ebook that's based on
 this file. It explains all the one-liners here. Get it at:
 
-    http://www.catonmat.net/blog/perl-book/
+    https://catonmat.net/perl-book
 
 No Starch Press has published "Perl One-Liners" as a real book too:
 
-    http://nostarch.com/perloneliners
+    https://nostarch.com/perloneliners
 
 These one-liners work both on UNIX systems and Windows. Most likely your
 UNIX system already has Perl. For Windows get the Strawberry Perl at:
 
-    http://www.strawberryperl.com/
+    http://www.strawberryperl.com
 
 Table of contents:
 
@@ -565,11 +565,11 @@ perl -MLWP::UserAgent -le 'print $LWP::UserAgent::VERSION'
 PERL ONE-LINERS EXPLAINED E-BOOK
 --------------------------------
 
-I have written an ebook based on the one-liners in this file. If you wish to
+I have written an ebook based on the one-liners in this file. If you want to
 support my work and learn more about these one-liners, you can get a copy
 of my ebook at:
 
-    http://www.catonmat.net/blog/perl-book/
+    https://catonmat.net/perl-book
 
 The ebook is based on the 7-part article series that I wrote on my blog.
 In the ebook I reviewed all the one-liners, improved explanations, added
@@ -578,13 +578,13 @@ and summary of commonly used special variables.
 
 You can read the original article series here:
 
-    http://www.catonmat.net/blog/perl-one-liners-explained-part-one/
-    http://www.catonmat.net/blog/perl-one-liners-explained-part-two/
-    http://www.catonmat.net/blog/perl-one-liners-explained-part-three/
-    http://www.catonmat.net/blog/perl-one-liners-explained-part-four/
-    http://www.catonmat.net/blog/perl-one-liners-explained-part-five/
-    http://www.catonmat.net/blog/perl-one-liners-explained-part-six/
-    http://www.catonmat.net/blog/perl-one-liners-explained-part-seven/
+    https://catonmat.net/perl-one-liners-explained-part-one
+    https://catonmat.net/perl-one-liners-explained-part-two
+    https://catonmat.net/perl-one-liners-explained-part-three
+    https://catonmat.net/perl-one-liners-explained-part-four
+    https://catonmat.net/perl-one-liners-explained-part-five
+    https://catonmat.net/perl-one-liners-explained-part-six
+    https://catonmat.net/perl-one-liners-explained-part-seven
 
 
 CREDITS
@@ -602,12 +602,12 @@ rent0n
 FOUND A BUG? HAVE ANOTHER ONE-LINER?
 ------------------------------------
 
-Email bugs and new one-liners to me at peter@catonmat.net!
+Email bugs and new one-liners to me at peter@catonmat.net.
 
 
 HAVE FUN
 --------
 
-I hope you found these one-liners useful. Have fun!
+I hope you found these one-liners useful. Have fun and see ya!
 
 #---end of file---
